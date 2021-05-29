@@ -1,6 +1,6 @@
 def countdown(number)
   if number <= 0 
-    puts number + "Done!"
+    puts number
   else
     puts number
     countdown(number - 1)
