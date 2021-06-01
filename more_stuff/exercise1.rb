@@ -12,4 +12,3 @@ has_lab("experiment")
 has_lab("Pans Labyrinth")
 has_lab("elaborate")
 has_lab("polar bear")
-

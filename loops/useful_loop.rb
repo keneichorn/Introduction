@@ -4,5 +4,3 @@ loop do
   puts i
   break
 end
-
-    

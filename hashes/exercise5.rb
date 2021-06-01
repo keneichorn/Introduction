@@ -5,4 +5,3 @@ if h1.has_value?("one")
 else
   puts "hash doesn't have 'one'"
 end
-

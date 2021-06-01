@@ -6,4 +6,3 @@ if arr.include?(number)
 else
   puts "#{number} is not in the array"
 end
-
